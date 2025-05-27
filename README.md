@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🧩 Languages: Python, SQL, PHP  <br>🎨 Design Tools: Figma, Adobe XD  <br>🌐 Web: HTML, CSS  <br>📊 Data Tools: Excel, Power BI  <br>📱 Mobile: Flutter (Basics)</p>
+<p align="left">🧩 Languages: Python, SQL, PHP  <br>🎨 Design Tools: Figma, Adobe XD  <br>🌐 Web: HTML, CSS  <br>📊 Data Tools: Excel, Power BI ,Python,Sql <br>📱 Mobile: Flutter (Basics)</p>
 
 ###
 
