@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hi 👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h2 align="left">Skills</h2>
 
 ###
 
